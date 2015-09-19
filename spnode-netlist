@@ -1,0 +1,128 @@
+Netlist
+
+Exported from schematic.brd at 19/09/2015 7:50:12 PM
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Net      Part     Pad
+
+GND      C1       2
+         C2       2
+         IC1      19
+         IC1      8
+         ICSP     3
+         JP1      1
+         JP2      1
+         JP4      5
+         JP5      1
+         QG1      2
+         R1       2
+         R2       1
+         R7       2
+         SW1      1
+         SW1      3
+         SW2      2
+         SW2      4
+         U$1      GND
+         U$1      GPIO15
+         U1       2
+         U1       4
+
+N$1      IC1      28
+         ICSP     4
+
+N$2      C1       1
+         IC1      20
+         ICSP     2
+         Q1       E
+         QG1      4
+         R3       1
+         R4       2
+         U1       3
+
+N$3      IC1      27
+         ICSP     5
+
+N$4      IC1      2
+         R6       1
+
+N$5      IC1      17
+         U$1      URXD
+
+N$7      IC1      18
+         U$1      UTXD
+
+N$8      IC1      1
+         ICSP     1
+
+N$9      IC1      3
+         U$1      GPIO14
+
+N$10     IC1      5
+         U$1      GPIO12
+
+N$11     IC1      16
+         JP4      3
+
+N$12     IC1      15
+         JP4      2
+
+N$13     LED1     C
+         R1       1
+
+N$14     IC1      24
+         LED1     A
+
+N$15     LED2     C
+         R2       2
+
+N$16     IC1      25
+         LED2     A
+
+N$17     IC1      11
+         JP1      4
+
+N$18     IC1      13
+         JP1      2
+
+N$19     IC1      9
+         U$1      GPIO13
+
+N$20     IC1      6
+         QG1      3
+
+N$21     IC1      12
+         JP1      3
+
+N$22     IC1      7
+         U$1      GPIO2
+
+N$23     IC1      4
+         U$1      GPIO18
+
+N$24     IC1      10
+         R7       1
+         U$1      GPIO0
+
+N$25     IC1      22
+         R3       2
+         SW1      2
+         SW1      4
+
+N$26     IC1      21
+         R4       1
+         SW2      1
+         SW2      3
+
+N$28     Q1       B
+         R6       2
+
+N$30     Q1       C
+         U$1      CH_PD
+         U$1      VCC
+
+VCC      C2       1
+         JP3      1
+         JP4      1
+         U1       1
+
